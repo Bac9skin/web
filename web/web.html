@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=480" />
+  <title>Роллер Торнадо</title>
+  <link rel="stylesheet" href="css/reset.css" />
+  <link rel="stylesheet" href="../web/fonts/stylesheet.css">
+  <link rel="stylesheet" href="../web/css/style.css">
+
+  <script type="text/javascript">
+    function startTimer() {
+      var my_timer = document.getElementById("my_timer");
+      var time = my_timer.innerHTML;
+      var arr = time.split(":");
+      var h = arr[0];
+      var m = arr[1];
+      var s = arr[2];
+      if (s == 0) {
+        if (m == 0) {
+          if (h == 0) {
+            alert("Время вышло");
+            window.location.reload();
+            return;
+          }
+          h--;
+          m = 60;
+          if (h < 10) h = "0" + h;
+        }
+        m--;
+        if (m < 10) m = "0" + m;
+        s = 59;
+      }
+      else s--;
+      if (s < 10) s = "0" + s;
+      document.getElementById("my_timer").innerHTML = h+":"+m+":"+s;
+      setTimeout(startTimer, 1000);
+    }
+  </script>
+
+</head>
+
+<body onload="startTimer()"
+  <div class="wrap">
+    <header>
+      <div class="header__top">
+        <div class="header__title">
+          <h1>Роллер TORNADO</h1>
+        </div>
+        <div class="header__text">
+          <h2>для идельных голубцов и далмы</h2>
+        </div>
+        <div class="header_discout_box">
+          <img src="../web/img/50.png" />
+        </div>
+      </div>
+        <div class="time__end">
+        <div class="timer__out">
+          <p><span id="my_timer">05:55:15</span></p>
+        </div>
+          <div class="time__end__clock">
+            <h2>ДО КОНЦА АКЦИИ ОСТАЛОСЬ:</h2>
+              <div class="time__icon">
+                <div class="time__icon1">
+              </div>
+              <div class="time__icon2">
+              </div>
+              <div class="time__icon3">
+              </div>
+              <div class="time__icon4">
+              </div>
+              <div class="time__icon5">
+              </div>
+              <div class="time__icon6">
+              </div>
+              <div class="text__icon1">
+                <p>часов</p>
+              </div>
+              <div class="text__icon2">
+                <p>минут</p>
+              </div>
+              <div class="text__icon3">
+                <p>секунд</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="header__bay">
+        <div class="ellipse1"> 
+          <img src="/web/img/001-cylinder.png" alt="">       
+        </div>
+        <div class="ellipse2">
+          <img src="/web/img/01.png" alt="">          
+        </div>
+        <div class="ellipse3">
+          <img src="/web/img/01.png" alt="">          
+        </div>
+        <div class="elli__img1">          
+        </div>
+        <div class="elli__img2">          
+        </div>
+        <div class="elli__img3">          
+        </div>
+        <div class="elli__text1">
+          <p>Получаются идеальной формы</p>
+        </div>
+        <div class="elli__text2">
+          <p>Время приготовления сокращается</p>
+        </div>
+        <div class="elli__text3">
+          <p>Можно постоянно есть национальную кухню</p>
+        </div>
+      </div>
+      <div class="prise__only">
+        <div class="prise__buy">
+          <p>обычная цена:</p>
+          <div class="prise__buy_59">
+          </div>
+          <div class="prise__buy_99">
+          </div>
+          <div class="prise__buy_p">
+          </div>
+          <div class="prise__buy_k">
+          </div>
+        </div>
+        <div class="prise__new">
+          <h2>новая цена:</h2>
+          <p>29</p>
+          <div class="prise__new_p">   
+          </div>
+          <div class="prise__new_99">   
+          </div>
+          <div class="prise__new_k">   
+          </div>
+        </div>
+        <div class="discount">
+          <h1>скидка</h1>
+          <p>50%</p>
+        </div>
+        <div class="buy__discount">
+          <h1>заказать со скидкой</h1> 
+        </div>
+      </div>
+    </header>
+  </div>
+</body>
+
+</html>

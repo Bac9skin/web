@@ -1,0 +1,466 @@
+.wrap{
+    position: absolute;
+    width: 480px;
+}
+
+.header__top{
+    background-image: url(../img/003.png);
+    height: 750px;
+    top: 0px;
+    left: 0px;    
+}
+.timer__out{
+    position: absolute;
+    z-index: 2;
+    font-family: Gotham Pro;
+    font-size: 50px;
+    letter-spacing: 33px;
+    font-weight: bold;
+    color: black;
+}
+.timer__out{
+    width: 33px;
+    height: 42px;
+    left: 33px;
+    top: 65px;
+}
+.header__title{
+    position: absolute;
+    width: 405px;
+    height: 38px;
+    left: 46px;
+    top: 34px;
+}
+.header__title{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 38px;
+    text-transform: uppercase;
+}
+.header__title{
+    color: #48509a;
+}
+.header__text{
+    position: absolute;
+    width: 357px;
+    height: 54px;
+    left: 69px;
+    top: 69px;
+}
+.header__text{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 27px;
+    text-align: center;
+}
+.header__text{
+    color: #000000;
+}
+.header_discout_box{
+    position: absolute;
+    width: 187px;
+    height: 67px;
+    left: 267px;
+    top: 134px;
+}
+.time__end{
+    position: absolute;
+    width: 480px;
+    height: 171px;
+    left: 0px;
+    top: 579px;
+}
+.time__end{
+    background: #ffffff;
+}
+.time__end__clock{
+    position: absolute;
+    width: 432px;
+    height: 24px;
+    left: 32px;
+    top: 16px;
+}
+.time__end__clock{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 2px;
+    line-height: 92.7%;
+    text-transform: uppercase;
+}
+.time__end__clock{
+    color: black;
+}
+.time__icon1{
+    position: absolute;
+    width: 52px;
+    height: 70px;
+    left: -13px;
+    top: 41px;
+}
+.time__icon1{
+    background-color: #c4c4c4;
+    border-radius: 3px;
+}
+
+.time__icon2{
+    position: absolute;
+    width: 52px;
+    height: 70px;
+    left: 48px;
+    top: 41px;
+}
+.time__icon2{
+    background-color: #c4c4c4;
+    border-radius: 3px;
+}
+.time__icon3{
+    position: absolute;
+    width: 52px;
+    height: 70px;
+    left: 150px;
+    top: 41px;
+}
+.time__icon3{
+    background-color: #c4c4c4;
+    border-radius: 3px;
+}
+.time__icon4{
+    position: absolute;
+    width: 52px;
+    height: 70px;
+    left: 211px;
+    top: 41px;
+}
+.time__icon4{
+    background-color: #c4c4c4;
+    border-radius: 3px;
+}
+.time__icon5{
+    position: absolute;
+    width: 52px;
+    height: 70px;
+    left: 316px;
+    top: 41px;
+}
+.time__icon5{
+    background-color: #c4c4c4;
+    border-radius: 3px;
+}
+.time__icon6{
+    position: absolute;
+    width: 52px;
+    height: 70px;
+    left: 377px;
+    top: 41px;
+}
+.time__icon6{
+    background-color: #c4c4c4;
+    border-radius: 3px;
+}
+.text__icon1{
+    position: absolute;
+    width: 72px;
+    height: 22px;
+    left: 7px;
+    top: 115px;
+}
+.text__icon1{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 92.7%;
+}
+.text__icon2{
+    position: absolute;
+    width: 74px;
+    height: 22px;
+    left: 170px;
+    top: 115px;
+}
+.text__icon2{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 92.7%;
+}
+.text__icon3{
+    position: absolute;
+    width: 86px;
+    height: 22px;
+    left: 327px;
+    top: 115px;
+}
+.text__icon3{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 92.7%;
+}
+.header__bay{
+    position: absolute;
+    z-index: 2;
+    width: 480px;
+    height: 163px;
+    left: 0px;
+    top: 745px;
+}
+.header__bay{
+    background: #4a519a;
+}
+.ellipse1{
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    left: 41px;
+    top: 8px
+}
+.ellipse1{
+    background: url(../img/01.png);
+}
+.ellipse2{
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    left: 205px;
+    top: 8px
+}
+.ellipse2{
+    background: url(../img/01.png);
+}
+.ellipse3{
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    left: 360px;
+    top: 8px
+}
+.ellipse3{
+    background: url(../img/01.png);
+}
+.elli__img1{
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    left: 53px;
+    top: 20px;
+}
+.elli__img1{
+    background: url(../img/001-cylinder.png);
+}
+.elli__img2{
+    position: absolute;
+    width: 61px;
+    height: 61px;
+    left: 208px;
+    top: 14px;
+}
+.elli__img2{
+    background: url(../img/002-clock.png);
+}
+.elli__img3{
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    left: 371px;
+    top: 16px;
+}
+.elli__img3{
+    background: url(../img/003-chef.png);
+}
+.elli__text1{
+    position: absolute;
+    width: 104px;
+    height: 67px;
+    left: 24px;
+    top: 94px;
+}
+.elli__text1{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.4px;
+    font-size: 16px;
+    line-height: 14px;
+    text-align: center;
+}
+.elli__text1{
+    color: #ffffff;
+}
+.elli__text2{
+    position: absolute;
+    width: 136px;
+    height: 67px;
+    left: 171px;
+    top: 94px;
+}
+.elli__text2{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.4px;
+    font-size: 16px;
+    line-height: 14px;
+    text-align: center;
+}
+.elli__text2{
+    color: #ffffff;
+}
+.elli__text3{
+    position: absolute;
+    width: 133px;
+    height: 67px;
+    left: 333px;
+    top: 94px;
+}
+.elli__text3{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.4px;
+    font-size: 16px;
+    line-height: 14px;
+    text-align: center;
+}
+.elli__text3{
+    color: #ffffff;
+}
+.prise__buy{
+    position: absolute;
+    width: 240px;
+    height: 77px;
+    left: 0px;
+    top: 908px;
+}
+.prise__buy{
+    background: #e0dddd;
+}
+.prise__new{
+    position: absolute;
+    width: 240px;
+    height: 77px;
+    left: 240px;
+    top: 908px;
+}
+.prise__new{
+   background-color: #ffe600;
+}
+.discount{
+    position: absolute;
+    z-index: 2;
+    width: 91px;
+    height: 94px;
+    left: 197px;
+    top: 899px;
+}
+.discount{
+    background: #ff0000;
+    box-shadow: 0px 0px 5px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+.buy__discount{
+    position: absolute;
+    width: 449px;
+    height: 76px;
+    left: 16px;
+    top: 1050px;
+}
+.buy__discount{
+    background: linear-gradient(183.07deg, #8793ff 28.77%, #474f9a 97.45%); 
+    box-shadow: 0px 22px 44px -12px rgba(37, 70, 144, 0.35);
+    border-radius: 100px;
+}
+.buy__discount h1{
+    position: absolute;
+    width: 399px;
+    height: 28px;
+    left: 29px;
+    top: 27px;
+}
+.buy__discount h1{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.1px;
+    font-size: 30px;
+    line-height: 92.7%;
+    text-transform: uppercase;
+}
+.buy__discount h1{
+    color: #ffffff;
+}
+.discount h1{
+    position: absolute;
+    width: 20px;
+    height: 54px;
+    left: 7px;
+    top: 21px;
+}
+.discount h1{
+    flex-flow: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.4px;
+    font-size: 21.6px;
+    line-height: 92.7%;
+}
+.discount h1{
+    color: #ffffff;
+}
+.discount p{
+    position: absolute;
+    width: 66.4px;
+    height: 54px;
+    left: 7px;
+    top: 41px;
+}
+.discount p{
+    flex-flow: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 35.6px;
+    line-height: 92.7%;
+}
+.discount p{
+    color: #ffffff;
+}
+.prise__new h2{
+    position: absolute;
+    width: 183px;
+    height: 30px;
+    left: 43px;
+    top: 3px;
+}
+.prise__new h2{
+    flex-flow: Gotham Pro;
+    font-style: normal;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    font-size: 25.5px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__new p{
+    position: absolute;
+    width: 53px;
+    height: 56px;
+    left: 83px;
+    top: 26.5px;
+}
+.prise__new p{
+    font-family: circe;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 118.7%;
+    text-align: center;
+}    
