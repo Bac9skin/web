@@ -437,7 +437,7 @@
     position: absolute;
     width: 183px;
     height: 30px;
-    left: 43px;
+    left: 48px;
     top: 3px;
 }
 .prise__new h2{
@@ -453,7 +453,7 @@
     position: absolute;
     width: 53px;
     height: 56px;
-    left: 83px;
+    left: 88px;
     top: 26.5px;
 }
 .prise__new p{
@@ -463,4 +463,758 @@
     font-size: 45px;
     line-height: 118.7%;
     text-align: center;
-}    
+}
+.prise__new__p{
+    position: absolute;
+    width: 9.53px;
+    height: 19.78px;
+    left: 137.58px;
+    top: 53px;
+}  
+.prise__new__p{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12.67px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__new_99{
+    position: absolute;
+    width: 27.64px;
+    height: 29.08px;
+    left: 147.58px;
+    top: 34px;
+}
+.prise__new_99{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.67px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__new_k{
+    position: absolute;
+    width: 9.29px;
+    height: 21.21px;
+    left: 172.58px;
+    top: 43px;
+}
+.prise__new_k{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12.67px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__buy h1{
+    position: absolute;
+    width: 183px;
+    height: 30px;
+    left: 8px;
+    top: 5px;
+}
+.prise__buy h1{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 1px;
+    font-size: 24px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__buy h2{
+    position: absolute;
+    width: 43px;
+    height: 40px;
+    left: 57px;
+    top: 34px;
+}
+.prise__buy h2{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 33px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__buy_99{
+    position: absolute;
+    width: 19.57px;
+    height: 20.58px;
+    left: 106.27px;
+    top: 38.87px;
+}
+.prise__buy_99{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3775px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__buy_p{
+    position: absolute;
+    width: 9.53px;
+    height: 19.78px;
+    left: 95.58px;
+    top: 51px;
+}
+.prise__buy_p{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12.67px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__buy_k{
+    position: absolute;
+    width: 9.53px;
+    height: 19.78px;
+    left: 124.58px;
+    top: 43px;
+}
+.prise__buy_k{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12.67px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.title__why{
+    position: absolute;
+    width: 448px;
+    height: 84px;
+    left: 13px;
+    top: 1137px;
+}
+.title__why{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 44px;
+    line-height: 42px;
+    text-align: center;
+}
+.title__why{
+    color: black;
+}
+.middle__top{
+    position: absolute;
+    width: 480px;
+    height: 826px;
+    left: 0px;
+    top: 1229px;
+}
+.middle__top{
+    background: url(../img/image\ 1\ 1.png);
+}
+.middle__top h1{
+    position: absolute;
+    width: 441;
+    height: 104px;
+    left: 30px;
+    top: 51px;
+}
+.middle__top h1{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 25px;
+    line-height: 1.3;
+    text-transform: uppercase;
+}
+.middle__top h1{
+    color: #ffffff;
+}
+.middle__top p{
+    position: absolute;
+    width: 414px;
+    height: 238px;
+    left: 40px;
+    top: 236px;
+}
+.middle__top p{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 140,2%;
+}
+.middle__options{
+    position: absolute;
+    width: 480px;
+    height: 541px;
+    left: 0px;
+    top: 2063px;
+}
+.middle__options{
+    background: url(../img/хр\ 1.png);
+}
+.middle__options h1{
+    position: absolute;
+    width: 446px;
+    height: 42px;
+    left: 22px;
+    top: 40px;
+}
+.middle__options h1{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 42px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.middle__options h1{
+    color: #000000;
+}
+.strok__1{
+    position: absolute;
+    width: 138px;
+    height: 25px;
+    left: 11px;
+    top: 110px;
+}
+.strok__1{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 1.5px;
+    font-size: 26px;
+    line-height: 25px;
+    text-align: center;
+}
+.strok__1{
+    color: #000000;
+}
+.strok__2{
+    position: absolute;
+    width: 216px;
+    height: 25px;
+    left: 5px;
+    top: 174px;
+}
+.strok__2{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 1.5px;
+    font-size: 26px;
+    line-height: 25px;
+    text-align: center;
+}
+.strok__2{
+    color: #000000;
+}
+.strok__3{
+    position: absolute;
+    width: 199px;
+    height: 25px;
+    left: 5px;
+    top: 264px;
+}
+.strok__3{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 1.5px;
+    font-size: 26px;
+    line-height: 25px;
+    text-align: center;
+}
+.strok__3{
+    color: #000000;
+}
+.strok__4{
+    position: absolute;
+    width: 198px;
+    height: 25px;
+    left: 5px;
+    top: 378px;
+}
+.strok__4{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 1.5px;
+    font-size: 26px;
+    line-height: 25px;
+    text-align: center;
+}
+.strok__4{
+    color: #000000;
+}
+.strok__5{
+    position: absolute;
+    width: 56px;
+    height: 25px;
+    left: 13px;
+    top: 420px;
+}
+.strok__5{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 1.5px;
+    font-size: 26px;
+    line-height: 25px;
+    text-align: center;
+}
+.strok__5{
+    color: #000000;
+}
+.strok__6{
+    position: absolute;
+    width: 236px;
+    height: 25px;
+    left: 3px;
+    top: 466px;
+}
+.strok__6{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 1.5px;
+    font-size: 26px;
+    line-height: 25px;
+    text-align: center;
+}
+.strok__6{
+    color: #000000;
+}
+.strok__1_2{
+    position: absolute;
+    width: 123.51px;
+    height: 51.17px;
+    left: 273px;
+    top: 110px;
+}
+.strok__1_2{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    font-size: 25px;
+    line-height: 24px;
+}
+.strok__1_2{
+    color: #000000;
+}
+.strok__2_2{
+    position: absolute;
+    width: 172.03px;
+    height: 76.75px;
+    left: 273px;
+    top: 174px;
+}
+.strok__2_2{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    font-size: 25px;
+    line-height: 24px;
+}
+.strok__2_2{
+    color: #000000;
+}
+.strok__3_2{
+    position: absolute;
+    width: 203.79px;
+    height: 102.34px;
+    left: 273px;
+    top: 264px;
+}
+.strok__3_2{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    font-size: 25px;
+    line-height: 24px;
+}
+.strok__3_2{
+    color: #000000;
+}
+.strok__4_2{
+    position: absolute;
+    width: 112.92px;
+    height: 25.58px;
+    left: 273px;
+    top: 378px;
+}
+.strok__4_2{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    font-size: 25px;
+    line-height: 24px;
+}
+.strok__4_2{
+    color: #000000;
+}
+.strok__5_2{
+    position: absolute;
+    width: 79.4px;
+    height: 25.58px;
+    left: 273px;
+    top: 420px;
+}
+.strok__5_2{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    font-size: 25px;
+    line-height: 24px;
+}
+.strok__5_2{
+    color: #000000;
+}
+.strok__6_2{
+    position: absolute;
+    width: 181.74x;
+    height: 25.58px;
+    left: 273px;
+    top: 466px;
+}
+.strok__6_2{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    font-size: 25px;
+    line-height: 24px;
+}
+.strok__6_2{
+    color: #000000;
+}
+.prise__buy_2{
+    position: absolute;
+    width: 240px;
+    height: 77px;
+    left: 0px;
+    top: 2604px;
+}
+.prise__buy_2{
+    background: #e0dddd;
+}
+.prise__new_2{
+    position: absolute;
+    width: 240px;
+    height: 77px;
+    left: 240px;
+    top: 2604px;
+}
+.prise__new_2{
+   background-color: #ffe600;
+}
+.discount_2{
+    position: absolute;
+    z-index: 2;
+    width: 91px;
+    height: 94px;
+    left: 197px;
+    top: 2595px;
+}
+.discount_2{
+    background: #ff0000;
+    box-shadow: 0px 0px 5px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+.buy__discount_2{
+    position: absolute;
+    width: 449px;
+    height: 76px;
+    left: 16px;
+    top: 2723px;
+}
+.buy__discount_2{
+    background: linear-gradient(183.07deg, #8793ff 28.77%, #474f9a 97.45%); 
+    box-shadow: 0px 22px 44px -12px rgba(37, 70, 144, 0.35);
+    border-radius: 100px;
+}
+.buy__discount_2 h1{
+    position: absolute;
+    width: 399px;
+    height: 28px;
+    left: 29px;
+    top: 27px;
+}
+.buy__discount_2 h1{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.1px;
+    font-size: 30px;
+    line-height: 92.7%;
+    text-transform: uppercase;
+}
+.buy__discount_2 h1{
+    color: #ffffff;
+}
+.discount_2 h1{
+    position: absolute;
+    width: 20px;
+    height: 54px;
+    left: 7px;
+    top: 21px;
+}
+.discount_2 h1{
+    flex-flow: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.4px;
+    font-size: 21.6px;
+    line-height: 92.7%;
+}
+.discount_2 h1{
+    color: #ffffff;
+}
+.discount_2 p{
+    position: absolute;
+    width: 66.4px;
+    height: 54px;
+    left: 7px;
+    top: 41px;
+}
+.discount_2 p{
+    flex-flow: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 35.6px;
+    line-height: 92.7%;
+}
+.discount_2 p{
+    color: #ffffff;
+}
+.prise__new_2 h2{
+    position: absolute;
+    width: 183px;
+    height: 30px;
+    left: 48px;
+    top: 3px;
+}
+.prise__new_2 h2{
+    flex-flow: Gotham Pro;
+    font-style: normal;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    font-size: 25.5px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__new_2 p{
+    position: absolute;
+    width: 53px;
+    height: 56px;
+    left: 88px;
+    top: 26.5px;
+}
+.prise__new_2 p{
+    font-family: circe;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__new__p_2{
+    position: absolute;
+    width: 9.53px;
+    height: 19.78px;
+    left: 137.58px;
+    top: 53px;
+}  
+.prise__new__p_2{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12.67px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__new_99_2{
+    position: absolute;
+    width: 27.64px;
+    height: 29.08px;
+    left: 147.58px;
+    top: 34px;
+}
+.prise__new_99_2{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21.67px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__new_k_2{
+    position: absolute;
+    width: 9.29px;
+    height: 21.21px;
+    left: 172.58px;
+    top: 43px;
+}
+.prise__new_k_2{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12.67px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__buy_2 h1{
+    position: absolute;
+    width: 183px;
+    height: 30px;
+    left: 8px;
+    top: 5px;
+}
+.prise__buy_2 h1{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 1px;
+    font-size: 24px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__buy_2 h2{
+    position: absolute;
+    width: 43px;
+    height: 40px;
+    left: 57px;
+    top: 34px;
+}
+.prise__buy_2 h2{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 33px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__buy_99_2{
+    position: absolute;
+    width: 19.57px;
+    height: 20.58px;
+    left: 106.27px;
+    top: 38.87px;
+}
+.prise__buy_99_2{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.3775px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__buy_p_2{
+    position: absolute;
+    width: 9.53px;
+    height: 19.78px;
+    left: 95.58px;
+    top: 51px;
+}
+.prise__buy_p_2{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12.67px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.prise__buy_k_2{
+    position: absolute;
+    width: 9.53px;
+    height: 19.78px;
+    left: 124.58px;
+    top: 43px;
+}
+.prise__buy_k_2{
+    font-family: Circe;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12.67px;
+    line-height: 118.7%;
+    text-align: center;
+}
+.middle__info{
+    position: absolute;
+    width: 480px;
+    height: 852.88px;
+    left: 0px;
+    top: 2842px;
+}
+.middle__info{
+    background: url(../img/картинка\ 2.png);
+}
+.middle__info h1{
+    position: absolute;
+    width: 400px;
+    height: 125px;
+    left: 42px;
+    top: 31px;
+}
+.middle__info h1{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 1px;
+    font-size: 24px;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+.middle__info h1{
+    color: #ffffff;
+}
+.middle__info h2{
+    position: absolute;
+    width: 322px;
+    height: 46px;
+    left: 79px;
+    top: 410px;
+}
+.middle__info h2{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    font-size: 24px;
+    line-height: 23px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.middle__info h2{
+    color: #e43416;
+}
+.middle__info h3{
+    position: absolute;
+    width: 322px;
+    height: 46px;
+    left: 85px;
+    top: 744px;
+}
+.middle__info h3{
+    font-family: Gotham Pro;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    font-size: 24px;
+    line-height: 23px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.middle__info h3{
+    color: #41b71c;
+}
